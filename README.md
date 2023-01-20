@@ -1,14 +1,8 @@
 # haydensgarage_frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the front end that corresponds with the back end repository https://github.com/mrleon83/haydengarage_backend
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+The back end should be initiated before, so that the API endpoints are available.
 
 ## Project Setup
 
